@@ -1,8 +1,11 @@
-@import "tailwindcss";
+/* @import url('https://jsdelivr.net'); */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
 
 @theme {
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-sans-flex: 'Google Sans Flex Variable', system-ui, sans-serif;
 }
 
 :root {

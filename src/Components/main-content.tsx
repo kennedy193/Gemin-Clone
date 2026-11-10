@@ -4,7 +4,7 @@ import keyBoard from "../assets/keyboard_arrow_down_24dp_1F1F1F_FILL0_wght400_GR
 export default function MainContent(){
     return (
         <>
-        <main className="bg-[#F3F7FB] min-h-screen h-full flex flex-col items-center pt-28">
+        <main className=" w-full h-full flex flex-1 flex-col items-center pt-56">
 
             <h1 className="text-[#444746] text-3xl font-semibold mb-10">Hi, I'm Gemini. Where should we start?</h1>
             <div className="w-full max-w-xl rounded-full px-5 py-4 bg-white flex items-center justify-between">
